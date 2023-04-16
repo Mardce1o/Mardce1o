@@ -8,7 +8,9 @@ Mardcelo is no one, He might not exist, He might exist
 
 - Windows Kernel 
 - Drivers 
-- Linux Kernel 
+- Linux Kernel
+- Quamtum Physics 
+- Mathematics  
 
 ## Certifications
 
