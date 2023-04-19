@@ -29,6 +29,7 @@ Mardcelo is no one, He might not exist, He might exist
 - [Niko](https://github.com/Exploitables/)
 - [tr3sp4ss3r](https://github.com/tr3sp4ss3rexe)
 - [Shelldon](https://github.com/Sh3lldon)
+- [Yah Yeet](https://github.com/Techyyeet)
 
 Also not to forget 
 
