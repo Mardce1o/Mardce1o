@@ -31,6 +31,3 @@ Mardcelo is no one, He might not exist, He might exist
 - [Shelldon](https://github.com/Sh3lldon)
 - [Yah Yeet](https://github.com/Techyyeet)
 
-Also not to forget 
-
-[Connor McGarr](https://github.com/connormcgarr)
